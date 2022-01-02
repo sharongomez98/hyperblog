@@ -8,3 +8,5 @@ Solo unos cuantos cambios mas.
 LInea de prueba
 
 Linea que persistira en el reset.
+
+Cambios que se quitaran en el reset HEAD.
