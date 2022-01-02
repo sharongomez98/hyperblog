@@ -1,1 +1,10 @@
-hola mundo. Este es el inicio de pruebas con mi repositorio local en git.
+hola mundo.
+Este es el inicio de pruebas con mi repositorio local en git.
+
+Vamos de nuevo con lineas en este archivo. 
+
+Solo unos cuantos cambios mas.
+
+LInea de prueba
+
+Linea que persistira en el reset.
