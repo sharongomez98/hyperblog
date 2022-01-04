@@ -11,4 +11,6 @@ Linea que persistira en el reset.
 
 Master 1
 
+Master 2
+
 Cambios que se quitaran en el reset HEAD.
