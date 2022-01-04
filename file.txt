@@ -9,4 +9,6 @@ LInea de prueba
 
 Linea que persistira en el reset.
 
+Master 1
+
 Cambios que se quitaran en el reset HEAD.
